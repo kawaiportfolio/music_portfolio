@@ -63,7 +63,7 @@ a {
   text-decoration: none;
 }
 
-img {
+img, video {
   max-width: 100%;
   vertical-align: bottom;
   border-style: none;
