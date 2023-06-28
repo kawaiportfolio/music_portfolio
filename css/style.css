@@ -30,10 +30,6 @@ p {
   font-size: 15px;
 }
 
-video {
-  max-width: 100%;
-  height: 100%;
-}
 /*========= テキストを滑らかに出現させるためのCSS ===============*/
 span.smoothText {
   overflow: hidden;
@@ -63,10 +59,14 @@ a {
   text-decoration: none;
 }
 
-img, video {
+img {
   max-width: 100%;
   vertical-align: bottom;
   border-style: none;
+}
+
+video {
+  max-width: 100%;
 }
 
 ul,
