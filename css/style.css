@@ -825,7 +825,7 @@ textarea {
   .profile_pic {
     width: 70%;
     margin: 0 15%;
-  }
+  
 
   /* Works */
   .works-name {
@@ -839,12 +839,12 @@ textarea {
   .works-item {
     flex: 0 0 48%;
     margin-right: 0;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
 
   .asirai {
     font-size: 65px;
-    bottom: -20%;
+    bottom: -10%;
   }
 
   /* Skill */
