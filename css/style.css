@@ -541,6 +541,12 @@ input {
   width: 100%;
 }
 
+.input-mini {
+  font-size: 12px;
+  padding: 7px;
+  width: 85%;
+}
+
 textarea {
   background-color: #fff;
   padding: 15px;
@@ -562,6 +568,11 @@ textarea {
 .button-area input:hover {
   color: #333;
   background: #dfc0b5;
+}
+
+.mini{
+  margin: 0;
+  padding-top: 5px;
 }
 
  .news_test{
